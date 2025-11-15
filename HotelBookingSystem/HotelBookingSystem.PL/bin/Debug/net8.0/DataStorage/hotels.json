@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Name": "11Friday",
+    "Description": "only friday",
+    "Rooms": [
+      {
+        "RoomNumber": 1,
+        "Type": "Standart",
+        "PricePerNight": 1000,
+        "Capacity": 1
+      }
+    ],
+    "Applications": []
+  }
+]

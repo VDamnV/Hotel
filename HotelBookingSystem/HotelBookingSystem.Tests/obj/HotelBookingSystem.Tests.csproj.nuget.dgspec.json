@@ -1,0 +1,319 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.Tests\\HotelBookingSystem.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.BLL\\HotelBookingSystem.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.BLL\\HotelBookingSystem.BLL.csproj",
+        "projectName": "HotelBookingSystem.BLL",
+        "projectPath": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.BLL\\HotelBookingSystem.BLL.csproj",
+        "packagesPath": "C:\\Users\\Cube\\.nuget\\packages\\",
+        "outputPath": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VS\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cube\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.Core\\HotelBookingSystem.Core.csproj": {
+                "projectPath": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.Core\\HotelBookingSystem.Core.csproj"
+              },
+              "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.DAL\\HotelBookingSystem.DAL.csproj": {
+                "projectPath": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.DAL\\HotelBookingSystem.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.Core\\HotelBookingSystem.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.Core\\HotelBookingSystem.Core.csproj",
+        "projectName": "HotelBookingSystem.Core",
+        "projectPath": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.Core\\HotelBookingSystem.Core.csproj",
+        "packagesPath": "C:\\Users\\Cube\\.nuget\\packages\\",
+        "outputPath": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VS\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cube\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.DAL\\HotelBookingSystem.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.DAL\\HotelBookingSystem.DAL.csproj",
+        "projectName": "HotelBookingSystem.DAL",
+        "projectPath": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.DAL\\HotelBookingSystem.DAL.csproj",
+        "packagesPath": "C:\\Users\\Cube\\.nuget\\packages\\",
+        "outputPath": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VS\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cube\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.Core\\HotelBookingSystem.Core.csproj": {
+                "projectPath": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.Core\\HotelBookingSystem.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.Tests\\HotelBookingSystem.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.Tests\\HotelBookingSystem.Tests.csproj",
+        "projectName": "HotelBookingSystem.Tests",
+        "projectPath": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.Tests\\HotelBookingSystem.Tests.csproj",
+        "packagesPath": "C:\\Users\\Cube\\.nuget\\packages\\",
+        "outputPath": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VS\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cube\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.BLL\\HotelBookingSystem.BLL.csproj": {
+                "projectPath": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.BLL\\HotelBookingSystem.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
