@@ -1,0 +1,11 @@
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.Core\bin\Debug\net8.0\HotelBookingSystem.Core.deps.json
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.Core\bin\Debug\net8.0\HotelBookingSystem.Core.dll
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.Core\bin\Debug\net8.0\HotelBookingSystem.Core.pdb
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.Core\obj\Debug\net8.0\HotelBookingSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.Core\obj\Debug\net8.0\HotelBookingSystem.Core.AssemblyInfoInputs.cache
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.Core\obj\Debug\net8.0\HotelBookingSystem.Core.AssemblyInfo.cs
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.Core\obj\Debug\net8.0\HotelBookingSystem.Core.csproj.CoreCompileInputs.cache
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.Core\obj\Debug\net8.0\HotelBookingSystem.Core.dll
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.Core\obj\Debug\net8.0\refint\HotelBookingSystem.Core.dll
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.Core\obj\Debug\net8.0\HotelBookingSystem.Core.pdb
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.Core\obj\Debug\net8.0\ref\HotelBookingSystem.Core.dll

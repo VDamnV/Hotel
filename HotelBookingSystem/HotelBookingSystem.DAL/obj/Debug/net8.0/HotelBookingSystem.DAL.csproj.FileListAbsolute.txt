@@ -1,0 +1,15 @@
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.DAL\obj\Debug\net8.0\HotelBookingSystem.DAL.csproj.AssemblyReference.cache
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.DAL\obj\Debug\net8.0\HotelBookingSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.DAL\obj\Debug\net8.0\HotelBookingSystem.DAL.AssemblyInfoInputs.cache
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.DAL\obj\Debug\net8.0\HotelBookingSystem.DAL.AssemblyInfo.cs
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.DAL\obj\Debug\net8.0\HotelBookingSystem.DAL.csproj.CoreCompileInputs.cache
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.DAL\bin\Debug\net8.0\HotelBookingSystem.DAL.deps.json
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.DAL\bin\Debug\net8.0\HotelBookingSystem.DAL.dll
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.DAL\bin\Debug\net8.0\HotelBookingSystem.DAL.pdb
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.DAL\bin\Debug\net8.0\HotelBookingSystem.Core.dll
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.DAL\bin\Debug\net8.0\HotelBookingSystem.Core.pdb
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.DAL\obj\Debug\net8.0\HotelBoo.87FA2285.Up2Date
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.DAL\obj\Debug\net8.0\HotelBookingSystem.DAL.dll
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.DAL\obj\Debug\net8.0\refint\HotelBookingSystem.DAL.dll
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.DAL\obj\Debug\net8.0\HotelBookingSystem.DAL.pdb
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.DAL\obj\Debug\net8.0\ref\HotelBookingSystem.DAL.dll
