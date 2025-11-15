@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ISIIv/ih24=",
+  "success": true,
+  "projectFilePath": "D:\\Education\\University\\OOP2\\HotelBookingSystem\\HotelBookingSystem.BLL\\HotelBookingSystem.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cube\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Cube\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

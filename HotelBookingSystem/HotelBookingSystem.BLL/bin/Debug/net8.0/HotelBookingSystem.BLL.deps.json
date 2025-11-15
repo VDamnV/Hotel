@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HotelBookingSystem.BLL/1.0.0": {
+        "dependencies": {
+          "HotelBookingSystem.Core": "1.0.0",
+          "HotelBookingSystem.DAL": "1.0.0"
+        },
+        "runtime": {
+          "HotelBookingSystem.BLL.dll": {}
+        }
+      },
+      "HotelBookingSystem.Core/1.0.0": {
+        "runtime": {
+          "HotelBookingSystem.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "HotelBookingSystem.DAL/1.0.0": {
+        "dependencies": {
+          "HotelBookingSystem.Core": "1.0.0"
+        },
+        "runtime": {
+          "HotelBookingSystem.DAL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HotelBookingSystem.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HotelBookingSystem.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HotelBookingSystem.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

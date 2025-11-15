@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HotelBookingSystem.Core\HotelBookingSystem.Core.csproj" />
+    <ProjectReference Include="..\HotelBookingSystem.DAL\HotelBookingSystem.DAL.csproj" />
+  </ItemGroup>
+
+</Project>

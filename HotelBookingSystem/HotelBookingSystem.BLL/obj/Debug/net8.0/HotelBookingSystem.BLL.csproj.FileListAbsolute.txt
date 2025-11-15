@@ -1,0 +1,17 @@
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\obj\Debug\net8.0\HotelBookingSystem.BLL.csproj.AssemblyReference.cache
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\obj\Debug\net8.0\HotelBookingSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\obj\Debug\net8.0\HotelBookingSystem.BLL.AssemblyInfoInputs.cache
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\obj\Debug\net8.0\HotelBookingSystem.BLL.AssemblyInfo.cs
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\obj\Debug\net8.0\HotelBookingSystem.BLL.csproj.CoreCompileInputs.cache
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\bin\Debug\net8.0\HotelBookingSystem.BLL.deps.json
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\bin\Debug\net8.0\HotelBookingSystem.BLL.dll
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\bin\Debug\net8.0\HotelBookingSystem.BLL.pdb
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\bin\Debug\net8.0\HotelBookingSystem.Core.dll
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\bin\Debug\net8.0\HotelBookingSystem.DAL.dll
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\bin\Debug\net8.0\HotelBookingSystem.Core.pdb
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\bin\Debug\net8.0\HotelBookingSystem.DAL.pdb
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\obj\Debug\net8.0\HotelBoo.C44410D4.Up2Date
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\obj\Debug\net8.0\HotelBookingSystem.BLL.dll
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\obj\Debug\net8.0\refint\HotelBookingSystem.BLL.dll
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\obj\Debug\net8.0\HotelBookingSystem.BLL.pdb
+D:\Education\University\OOP2\HotelBookingSystem\HotelBookingSystem.BLL\obj\Debug\net8.0\ref\HotelBookingSystem.BLL.dll
